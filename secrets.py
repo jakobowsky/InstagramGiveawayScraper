@@ -1,0 +1,2 @@
+LOGIN = 'yourlogin'
+PASSWORD = 'yourpassword'
